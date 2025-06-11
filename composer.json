@@ -1,5 +1,5 @@
 {
-    "name": "Meeralmin/aliexpress-php-sdk",
+    "name": "theprosolutionx/aliexpress-php-sdk",
     "description": "PHP SDK for AliExpress API integration",
     "type": "library",
     "license": "MIT",
@@ -18,7 +18,7 @@
         }
     },
     "support": {
-        "issues": "https://github.com/Meeralamin/aliexpress-php-sdk/issues",
-        "source": "https://github.com/Meeralamin/aliexpress-php-sdk"
+        "issues": "https://github.com/theprosolutionx/aliexpress-php-sdk/issues",
+        "source": "https://github.com/theprosolutionx/aliexpress-php-sdk"
     }
 }
