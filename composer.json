@@ -1,0 +1,20 @@
+{
+    "name": "Meeralmin/aliexpress-php-sdk",
+    "description": "PHP SDK for AliExpress API integration",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Meer Alamin",
+            "email": "your@email.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "AliExpress\\": "iop/"
+        }
+    }
+}
