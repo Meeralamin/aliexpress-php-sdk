@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "Meer Alamin",
-            "email": "your@email.com"
+            "email": "info@prosolutionx.com"
         }
     ],
     "require": {
@@ -16,5 +16,9 @@
         "psr-4": {
             "AliExpress\\": "iop/"
         }
+    },
+    "support": {
+        "issues": "https://github.com/Meeralamin/aliexpress-php-sdk/issues",
+        "source": "https://github.com/Meeralamin/aliexpress-php-sdk"
     }
 }
